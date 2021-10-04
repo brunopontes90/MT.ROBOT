@@ -1,0 +1,28 @@
+{
+  "name": "mr.robot",
+  "version": "1.0.0",
+  "description": "Robo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopontes90/Mr.Robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunopontes90/Mr.Robot/issues"
+  },
+  "homepage": "https://github.com/brunopontes90/Mr.Robot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.13",
+    "puppeteer": "^10.2.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
